@@ -1,0 +1,21 @@
+mission_name,year,country_id,mission_type,status,launch_site
+Apollo 11,1969,1,Lunar,Successful,Kennedy Space Center
+Apollo 13,1970,1,Lunar,Failed,Kennedy Space Center
+Apollo 17,1972,1,Lunar,Successful,Kennedy Space Center
+Vostok 1,1961,2,Crewed,Successful,Baikonur Cosmodrome
+Luna 2,1959,2,Lunar,Successful,Baikonur Cosmodrome
+Sputnik 1,1957,2,Earth Orbit,Successful,Baikonur Cosmodrome
+Zond 5,1968,2,Lunar,Successful,Baikonur Cosmodrome
+Shenzhou 5,2003,5,Crewed,Successful,Jiuquan Satellite Launch Center
+Chang'e 3,2013,5,Lunar,Successful,Xichang Satellite Launch Center
+Tianwen-1,2020,5,Mars,Successful,Wenchang Spacecraft Launch Site
+Hayabusa,2003,6,Asteroid,Successful,Uchinoura Space Center
+Hayabusa2,2014,6,Asteroid,Successful,Tanegashima Space Center
+Chandrayaan-1,2008,7,Lunar,Successful,Satish Dhawan Space Centre
+Chandrayaan-2,2019,7,Lunar,Partial,Satish Dhawan Space Centre
+Chandrayaan-3,2023,7,Lunar,Successful,Satish Dhawan Space Centre
+Mars orbiter mission,2013,7,Mars,Successful,Satish Dhawan Space Centre
+New horizons,2006,1,Pluto,Successful,Cape Canaveral
+Voyager 1,1977,1,Deep Space,Successful,Cape Canaveral
+Voyager 2,1977,1,Deep Space,Successful,Cape Canaveral
+Perseverance,2020,1,Mars,Successful,Cape Canaveral
